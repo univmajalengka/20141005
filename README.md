@@ -1,4 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
 
-Andi Gunawan
-NPM:201410055
-PRODI:Informatika
+<p>Andi Gunawan</p>
+<p>NPM:201410055</p>
+<p>PRODI:Informatika</p>
+
+</body>
